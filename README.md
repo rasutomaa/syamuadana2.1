@@ -18,4 +18,4 @@ Syamuさんのあだ名を使ったしりとりの構成案・整理データの
 * あくまで個人の備忘録・アイデアメモです。
 
 ## 当データを使用した遊び
-* [Geminiを使った遊び](https://share.gemini.google/MYCFJ6BKqpQ4)
+* [Geminiを使った遊び]()
