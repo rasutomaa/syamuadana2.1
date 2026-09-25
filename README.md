@@ -19,3 +19,6 @@ Syamuさんのあだ名を使ったしりとりの構成案・整理データの
 
 ## 当データを使用した遊び
 * [Geminiを使った遊び](https://share.gemini.google/Agkmk7lNfmq8)
+
+[Deepseek](https://chat.deepseek.com/share/v7jei7tlnm5hnczex9)
+* 
